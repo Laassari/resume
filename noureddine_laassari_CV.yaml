@@ -1,0 +1,120 @@
+cv:
+  name: Noureddine Laassari
+  location: Agadir, Morooco
+  email: contact@laassari.com
+  website: https://laassari.com
+  social_networks:
+    - network: LinkedIn
+      username: laassari
+    - network: GitHub
+      username: laassari
+  sections:
+    Summary:
+      - Full-stack developer with 5+ years of experience. I enjoy building accessible and performant web experiences
+        using the latest technologies and tools.
+      - I love following features from concept to deployment and monitoring the usage after to see how it affects users.
+      - '- Good experience with remote communications'
+      - '- Strive for clean code'
+      - '- Pragmatic and understands business needs'
+
+    experience:
+      - company: Elevo
+        position: Full-stack Developer
+        location: Paris (remote)
+        start_date: 2021-08
+        end_date: 2023-03
+        highlights:
+          - Take responsibility for key features from Idea to delivery
+          - Migrate front-end from Flow to Typescript
+          - introduce storybook and work on the design system
+          - Introduce Docker for Development
+          - '**Stack**:  React - Typescript - Redux - Git - Storybook - Jest - PostgreSQL - Ruby on Rails
+            - Heroku - Docker'
+      - company: Fluicity
+        position: Software Engineer
+        location: Paris (remote)
+        start_date: 2020-03
+        end_date: 2021-07
+        highlights:
+          - Migrated frontend from Ruby on Rails to React.
+          - Built several design system components in Storybook
+          - 20% bundle size & load time improvement using various strategies.
+          - 10% increase of the accessibility score and reached 90% score on new pages.
+          - Lead the tech part of new main features and assisted during the product discovery phase
+          - E2E testing (Cypress) and unit tests (Jest) for key features.
+          - '**Stack**: React - Redux - Git - GitHub Actions - Cypress - Storybook - Jest 
+            - React-intl - Material-UI - PostgreSQL - Ruby on Rails - Heroku'
+      - company: Devinweb
+        position: Frontend Web Developer
+        location: Tetouan, Morocco
+        start_date: 2018-11
+        end_date: 2020-01
+        highlights:
+          - Built a gifting platform (resal.me) front-end while ensuring accessibility, speed, and SEO friendliness.
+          - Maintained a dashboard used by the partners of resal.me to update order statuses, notify users,
+            cancel orders, and more using.
+          - Built and maintained an admin panel for an e-store with different features.
+          - Maintained a React Native application, added new features like Apple Pay and upgraded it to a newer
+            version.
+          - '**Stack**: Vue.js/Nuxt.js - React - React Native - Axios - Tailwindcss - Moment - Laravel'
+    
+    projects:
+      - name: '[Offliner](https://offliner.laassari.com/)'
+        date: '[Laassari/Offliner](https://github.com/Laassari/Offliner)'
+        highlights:
+          - Developed a PWA where the user can download and manage Youtube videos
+            through the app. The user can, also, create and manage playlists.
+            The app supports background fetch and is registred as a share target.
+          - 'Tools Used: Typescript, React, Tailwindcss, Docker, Express'
+      - name: Focus
+        date: '[Laassari/focus](https://github.com/Laassari/focus)'
+        highlights:
+          - Developed a chrome extension to help focus on work in intervals using the Pomodoro technique.
+            You can customise the focus time, rest time and extended rest time. 
+            in addition to the websites you wish to block during Focus
+
+          - 'Tools Used: Javascript, chrome.extension API'
+     
+    education:
+      - institution: University of Ibn Zohr
+        area: Physics
+        start_date: 2013-09
+        end_date: 2016-06
+
+design:
+  theme: classic
+  font: Source Sans 3
+  font_size: 10pt
+  page_size: letterpaper
+  color: '#004f90'
+  disable_external_link_icons: false
+  disable_page_numbering: true
+  disable_last_updated_date: true
+  header_font_size: 30 pt
+  text_alignment: justified
+  seperator_between_connections: ''
+  use_icons_for_connections: true
+  margins:
+    page:
+      top: 2 cm
+      bottom: 1.5 cm
+      left: 2 cm
+      right: 2 cm
+    section_title:
+      top: 0.3 cm
+      bottom: 0.2 cm
+    entry_area:
+      left_and_right: 0.2 cm
+      vertical_between: 0.2 cm
+      date_and_location_width: 4.5 cm
+      education_degree_width: 1 cm
+    highlights_area:
+      top: 0.10 cm
+      left: 0.4 cm
+      vertical_between_bullet_points: 0.10 cm
+    header:
+      vertical_between_name_and_connections: 0.3 cm
+      bottom: 0.3 cm
+      horizontal_between_connections: 0.5 cm
+  show_timespan_in:
+    - Experience
